@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Testing\\TestCI\\TestCI.csproj": {}
+    "D:\\Visual Studio Projekt\\TestCI\\TestCI\\TestCI.csproj": {}
   },
   "projects": {
-    "C:\\Testing\\TestCI\\TestCI.csproj": {
+    "D:\\Visual Studio Projekt\\TestCI\\TestCI\\TestCI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Testing\\TestCI\\TestCI.csproj",
+        "projectUniqueName": "D:\\Visual Studio Projekt\\TestCI\\TestCI\\TestCI.csproj",
         "projectName": "TestCI",
-        "projectPath": "C:\\Testing\\TestCI\\TestCI.csproj",
+        "projectPath": "D:\\Visual Studio Projekt\\TestCI\\TestCI\\TestCI.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Testing\\TestCI\\obj\\",
+        "outputPath": "D:\\Visual Studio Projekt\\TestCI\\TestCI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",

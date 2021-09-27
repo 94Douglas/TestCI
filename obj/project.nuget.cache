@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YUfZSAk3psIp1SiKmHbM0tvPM7cMmbP9SbVqHv36l7yrfrqeOo/zQ5EByhLqJQnGk5rukoOoTaEQoYTIcUl1zQ==",
+  "dgSpecHash": "v/8epGMa2MuktwiJhK3wBUhFWrSeVM+kN0+bz+6cfBbylIbFU4Lg4KQFGizuRrU2G1KeFP+5pJiehkL8omjkHw==",
   "success": true,
-  "projectFilePath": "C:\\Testing\\TestCI\\TestCI.csproj",
+  "projectFilePath": "D:\\Visual Studio Projekt\\TestCI\\TestCI\\TestCI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
